@@ -1,0 +1,11 @@
+{
+  "name": "daywalker-theme",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark theme you can use in the sunlight for Atom",
+  "repository": "https://github.com/dijs/daywalker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
